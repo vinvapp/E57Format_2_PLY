@@ -1,2 +1,5 @@
 build
 .vscode
+e57_input/*
+!e57_input/.keepme
+
