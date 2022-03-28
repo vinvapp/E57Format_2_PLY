@@ -24,8 +24,11 @@
  * DEALINGS IN THE SOFTWARE.
  */
 
-#include "ReaderImpl.h"
+//#include "e57/src/ReaderImpl.h"
 
+#include "E57RefImpl_src-1.1.327/src/E57FoundationImpl.h"
+
+#include <iostream>
 
 int main(int argc, char *argv[]) {
 
